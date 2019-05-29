@@ -1,3 +1,14 @@
+
+
+./configure --enable-debug --disable-bench --disable-gui-tests
+./configure --enable-debug --disable-bench --disable-gui-tests --without-gui 
+./configure --enable-debug --disable-bench --disable-gui-tests --without-gui --disable-tests 
+
+
+
+
+
+
 # ImageCoin
 A Coin that create the blockchain to send privacy images in own blockchain (Image Coin) ! 
 
